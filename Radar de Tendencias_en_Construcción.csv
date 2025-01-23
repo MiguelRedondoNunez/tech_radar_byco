@@ -1,4 +1,4 @@
-Name,Ring,quadrant,isNew,status,description
+name,ring,quadrant,isNew,status,description
 Aplicaciones Inteligentes,Adopción Temprana,Tecnología,TRUE,new,"Utilizan una o varias técnicas de IA para aprender de diversas fuentes de datos externas y alternativas."
 Asistentes virtuales IA generativa,Implantada,Tecnología,TRUE,new,"Representan una nueva generación de asistentes que aprovechan los grandes modelos de lenguaje (LLM, por sus siglas en inglés) para mejorar su funcionalidad."
 Aprendizaje autosupervisado,Pilotaje/Prototipo,Tecnología,TRUE,new,"Es un enfoque del machine learning (ML) en el que se generan datos etiquetados a partir de los propios datos, sin depender de datos de resultados históricos ni de supervisores humanos que proporcionen etiquetas o comentarios."
